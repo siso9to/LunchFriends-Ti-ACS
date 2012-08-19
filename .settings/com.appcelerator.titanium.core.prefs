@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+provisioning_profiles/development/26FF57F1-6F3B-423F-B70A-70885EDCE007/appid=net.siso9to.apps.lunchlogs
+provisioning_profiles/development/26FF57F1-6F3B-423F-B70A-70885EDCE007/filepath=/Users/siso9to/Library/MobileDevice/Provisioning Profiles/26FF57F1-6F3B-423F-B70A-70885EDCE007.mobileprovision
+provisioning_profiles/development/26FF57F1-6F3B-423F-B70A-70885EDCE007/name=LunchLogs
+provisioning_profiles/development/26FF57F1-6F3B-423F-B70A-70885EDCE007/uuid=26FF57F1-6F3B-423F-B70A-70885EDCE007
+provisioning_profiles/development/C041DF74-7BC1-42E5-A5AB-FD1BF71646F2/appid=net.siso9to.apps.mylog
+provisioning_profiles/development/C041DF74-7BC1-42E5-A5AB-FD1BF71646F2/filepath=/Users/siso9to/Library/MobileDevice/Provisioning Profiles/C041DF74-7BC1-42E5-A5AB-FD1BF71646F2.mobileprovision
+provisioning_profiles/development/C041DF74-7BC1-42E5-A5AB-FD1BF71646F2/name=MyLog
+provisioning_profiles/development/C041DF74-7BC1-42E5-A5AB-FD1BF71646F2/uuid=C041DF74-7BC1-42E5-A5AB-FD1BF71646F2
+provisioning_profiles/development/C9ED00CC-40B7-49C4-A466-90A9E762A42E/appid=*
+provisioning_profiles/development/C9ED00CC-40B7-49C4-A466-90A9E762A42E/filepath=/Users/siso9to/Library/MobileDevice/Provisioning Profiles/C9ED00CC-40B7-49C4-A466-90A9E762A42E.mobileprovision
+provisioning_profiles/development/C9ED00CC-40B7-49C4-A466-90A9E762A42E/name=test
+provisioning_profiles/development/C9ED00CC-40B7-49C4-A466-90A9E762A42E/uuid=C9ED00CC-40B7-49C4-A466-90A9E762A42E
+provisioning_profiles/development/CDCB139C-5F9E-431A-8A8A-DFE69729FA28/appid=*
+provisioning_profiles/development/CDCB139C-5F9E-431A-8A8A-DFE69729FA28/filepath=/Users/siso9to/Library/MobileDevice/Provisioning Profiles/CDCB139C-5F9E-431A-8A8A-DFE69729FA28.mobileprovision
+provisioning_profiles/development/CDCB139C-5F9E-431A-8A8A-DFE69729FA28/name=iOS Team Provisioning Profile\: *
+provisioning_profiles/development/CDCB139C-5F9E-431A-8A8A-DFE69729FA28/uuid=CDCB139C-5F9E-431A-8A8A-DFE69729FA28
