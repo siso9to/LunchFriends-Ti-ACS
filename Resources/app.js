@@ -1,5 +1,6 @@
 var LunchLog = {};
-LunchLog.Facebook.appid = 'xxxx';
+LunchLog.Facebook = {};
+LunchLog.Facebook.appid = 'xxx';
 
 //bootstrap and check dependencies
 if (Ti.version < 1.8 ) {
